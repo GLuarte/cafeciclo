@@ -22,14 +22,13 @@
         <a class="nav-link" href="index.php">Inicio<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="create.php">Registrar Producto</a>
+        <a class="nav-link" href="create-product.php">Registrar Producto</a>
       </li>
 	  <li class="nav-item">
         <a class="nav-link" href="newcli.php">Registrar Cliente</a>
       </li>
-      
-      
+
+
     </ul>
   </div>
 </nav>
- 
