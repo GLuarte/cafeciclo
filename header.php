@@ -27,7 +27,9 @@
 	  <li class="nav-item">
         <a class="nav-link" href="newcli.php">Registrar Cliente</a>
       </li>
-
+      <li class="nav-item">
+          <a class="nav-link" href="create-venta.php">Registrar Venta</a>
+        </li>
 
     </ul>
   </div>
