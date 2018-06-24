@@ -87,6 +87,9 @@ function closeNav() {
       <li class="nav-item">
         <a class="nav-link" href="create.php">Registrar</a>
       </li>
+      <li class="nav-item">
++        <a class="nav-link" href="newcli.php">Registrar Cliente</a>
++      </li>
       
       
     </ul>
